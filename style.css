@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  background-color: var(--bg-dark);
+  background: transparent;
   color: var(--text-main);
   font-family: var(--font-main);
   overflow-x: hidden;
